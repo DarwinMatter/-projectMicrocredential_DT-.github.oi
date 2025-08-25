@@ -1,2 +1,3 @@
+For this project, we use the data set from "Distribution, climatic relationships, and status of American pikas (Ochotona princeps) in the Great Basin, USA"" cite below. Specifically, we use data coming from Appendix 3: Master Database -- Extant Great Basin Pika Sites, Published and Unpublished Sources.
 
-This repository contains material of the final project for data foundations camp
+1. Millar, C. I., Delany, D. L., Hersey, K. A., Jeffress, M. R., Smith, A. T., Van Gunst, K. J., & Westfall, R. D. (2018). Distribution, climatic relationships, and status of American pikas (Ochotona princeps) in the Great Basin, USA. Arctic, Antarctic, and Alpine Research, 50(1). https://doi.org/10.1080/15230430.2018.1436296
